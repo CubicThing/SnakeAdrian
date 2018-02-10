@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1518078379 source:c:\users\dancy\documents\codeblocks\snek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"windows.h"
+	<conio.h>
+
